@@ -4,7 +4,7 @@
 Consiste em um DAG (Directed Acyclic Graphs) que implementa um fluxo de tarefas (tasks) desenvolvidas em **python** a serem orquestradas e executadas no **Apache Airflow** com o objetivo de reunir **dados** acerca da qualidade da internet fornecida pelo provedor e emitir alertas quando o serviço atingir níveis críticos de qualidade.
 
 
-## Graph
+## DAG
 
 ```mermaid
 graph LR
